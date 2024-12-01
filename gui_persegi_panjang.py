@@ -17,7 +17,7 @@ def hitung():
 
 # Membuat jendela utama
 root = tk.Tk()
-root.title("Hitung Luas dan Keliling Persegi Panjang")
+root.title("Hitung Luas atau Keliling Persegi Panjang")
 
 # Label dan Entry untuk panjang
 label_panjang = tk.Label(root, text="Masukan Panjang:")
